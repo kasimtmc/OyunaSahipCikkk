@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oyuna Sahip Çık</string>
+    <string name="switch_camera">Switch</string>
+    <string name="take">Çek</string>
+    <string name="editable_image">editable image</string>
+    <string name="m_h_r">mühür</string>
+    <string name="share">share</string>
+    <string name="tercih">tercih</string>
+    <string name="evet">evet</string>
+</resources>
